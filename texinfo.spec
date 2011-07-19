@@ -157,6 +157,9 @@ fi
 %{_mandir}/man1/pdftexi2dvi.1*
 
 %changelog
+* Tue Jul 19 2011 Mike Adams <shalkie@gooseproject.org> - 4.13a-8
+- Initial build for GoOSe Linux 6
+
 * Thu Dec 10 2009 Vitezslav Crhonek <vcrhonek@redhat.com> - 4.13a-8
 - Fix memory allocation bug when using old-style --section "Foo" arguments
 
